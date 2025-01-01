@@ -1,0 +1,7 @@
+pip install speechrecognition pyaudio
+pip install setuptools
+pip install pyttsx3
+pip install pocketsphinx
+pip install pygame
+pip install groq
+pip install pyaudio

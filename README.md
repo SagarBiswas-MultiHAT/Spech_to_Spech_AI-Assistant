@@ -2,7 +2,7 @@
 
 # Voice-Controlled Virtual Assistant: "Hey Sagar"
 
-![Voice-Controlled Virtual Assistant](https://www.facebook.com/photo/?fbid=122132627636552158&set=a.122095037252552158&__cft__[0]=AZU29X62hnKYAtr5BAsH4ZSMI0FcIyNMNyx9Wk6mPssw6wn41D1HkeXxHlD7XBtuRBJZ0chJn5WP8xzdgobNrfJ_a_rqVkjV4RdMnjldLaFGHw&__tn__=EH-R)
+![Voice-Controlled Virtual Assistant](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/472300904_122132627642552158_7597006921599684126_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=abH9yBDiVM4Q7kNvgFbmPZP&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=AQesYnXkH9k84QIr0_DsnbB&oh=00_AYCzzBzw8plN_IBiZlHmauMpzocBEBwkhLWdRW0X1khHjA&oe=677ADC39)
 
 This repository contains a Python-based voice-controlled virtual assistant designed to handle commands like opening websites, playing music, and generating AI-based responses. Powered by Google’s Speech Recognition, Groq API, and pyttsx3, it offers a seamless and interactive user experience.  
 

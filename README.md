@@ -4,7 +4,9 @@
 
 ![Voice-Controlled Virtual Assistant](https://imgur.com/9ocpIOM.png)
 
-This repository contains a Python-based voice-controlled virtual assistant designed to handle commands like opening websites, playing music, and generating AI-based responses. Powered by Google’s Speech Recognition, Groq API, and pyttsx3, it offers a seamless and interactive user experience.  
+This repository contains a Python-based voice-controlled virtual assistant designed to handle commands like opening websites, playing music, and generating AI-based responses. Powered by Google’s Speech Recognition, Groq API, and pyttsx3, it offers a seamless and interactive user experience.
+
+Video tutorial: https://www.facebook.com/share/v/174FNmpgxj/
 
 ---
 

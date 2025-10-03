@@ -67,12 +67,14 @@ pip install groq
 
 ## Supported Commands  
 
-| Command Example       | Action                        |  
-|------------------------|-------------------------------|  
-| "Open Google"          | Opens `www.google.com` in a browser. |  
-| "Open YouTube"         | Opens `www.youtube.com`.     |  
-| "Play [song_name]"     | Searches and plays a song.   |  
-| Custom questions       | AI-generated response based on input. |  
+<p align="center">
+   | Command Example       | Action                        |  
+   |------------------------|-------------------------------|  
+   | "Open Google"          | Opens `www.google.com` in a browser. |  
+   | "Open YouTube"         | Opens `www.youtube.com`.     |  
+   | "Play [song_name]"     | Searches and plays a song.   |  
+   | Custom questions       | AI-generated response based on input. |  
+</p>
 
 ---
 

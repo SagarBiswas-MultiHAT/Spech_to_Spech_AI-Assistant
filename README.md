@@ -90,12 +90,6 @@ pip install groq
 
 ---
 
-## License  
-
-This project is open-source and available under the [MIT License](LICENSE).  
-
----
-
 ## Contributing  
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for enhancements or bug fixes.  

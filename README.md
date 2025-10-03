@@ -65,9 +65,9 @@ pip install groq
 
 ---
 
+<p align="center">
 ## Supported Commands  
 
-<p align="center">
    | Command Example       | Action                        |  
    |------------------------|-------------------------------|  
    | "Open Google"          | Opens `www.google.com` in a browser. |  

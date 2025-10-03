@@ -65,7 +65,6 @@ pip install groq
 
 ---
 
-<p align="center">
 ## Supported Commands  
 
    | Command Example       | Action                        |  
@@ -74,7 +73,6 @@ pip install groq
    | "Open YouTube"         | Opens `www.youtube.com`.     |  
    | "Play [song_name]"     | Searches and plays a song.   |  
    | Custom questions       | AI-generated response based on input. |  
-</p>
 
 ---
 

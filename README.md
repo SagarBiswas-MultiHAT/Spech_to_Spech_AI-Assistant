@@ -36,8 +36,8 @@ pip install groq
 
 1. Clone this repository:  
    ```bash  
-   git clone <repository-url>  
-   cd <repository-folder>  
+   git clone https://github.com/SagarBiswas-MultiHAT/Spech_to_Spech_AI-Assistant.git 
+   cd Spech_to_Spech_AI-Assistant 
    ```  
 
 2. Install the required libraries (see prerequisites).  
@@ -46,7 +46,7 @@ pip install groq
 
 4. Run the script:  
    ```bash  
-   python <script-name>.py  
+   python main.py  
    ```  
 
 ---

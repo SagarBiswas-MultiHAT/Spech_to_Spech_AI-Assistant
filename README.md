@@ -1,6 +1,15 @@
-### README.md
-
 # Voice-Controlled Virtual Assistant: "Hey Sagar"
+
+<div align="right">
+
+[![CI](https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/Speech2Speech-AI-Assistant/ci.yml?branch=main)](https://github.com/SagarBiswas-MultiHAT/Speech2Speech-AI-Assistant/actions)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/Speech2Speech-AIAssistant)](https://github.com/SagarBiswas-MultiHAT/Speech2Speech-AIAssistant/commits)
+[![Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/Speech2Speech-AIAssistant)](https://github.com/SagarBiswas-MultiHAT/Speech2Speech-AIAssistant/issues)
+
+</div>
+
 
 ![Voice-Controlled Virtual Assistant](https://imgur.com/9ocpIOM.png)
 
